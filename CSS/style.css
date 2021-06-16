@@ -1,0 +1,57 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    align-content: center;
+}
+
+.header {
+    background-color: oldlace;
+}
+
+.Contenido {
+    color: rgb(216, 82, 5);
+    letter-spacing: 5px;
+    background-color: peachpuff;
+}
+
+.contenido-header {
+    text-align: center;
+    font-size: 25px;
+}
+
+#foto {
+    display: block;
+    margin: auto;
+    width: 200px;
+}
+
+.cajitas {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+ul li {
+    font-family: serif;
+}
+
+span {
+    font-style: italic;
+    font-weight: bold;
+}
+
+footer {
+    background-color: peachpuff;
+    width: 100%;
+    height: 50px;
+    top: 930px;
+    letter-spacing: 2px;
+    position: absolute;
+    color: rgb(216, 82, 5);
+    text-align: center;
+    font-weight: bold;
+}
+
+#Iconos {
+    width: 30px;
+    height: 30px;
+    padding-left: 10px;
+}
